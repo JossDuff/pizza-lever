@@ -1,7 +1,7 @@
 [project]
 name = "pizza-lever"
 version = "0.1.0"
-description = "Add your description here"
+description = "A lever for pizza"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
